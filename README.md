@@ -75,7 +75,7 @@ Python 3.8 or higher is required for running this tool. So, make sure your pytho
 
 1. Clone the repo.
    ```bash
-   git clone https://github.com/TechnoIndian/Dex2c
+   git clone https://github.com/bagayboss509/Dex2c
    ```
 2. Open the cloned directory.
    ```bash
@@ -116,7 +116,7 @@ Python 3.8 or higher is required for running this tool. So, make sure your pytho
 
 One Step Installation: Run Below Command
    ```bash
-pkg install wget -y && wget -O termux_install.sh https://raw.githubusercontent.com/TechnoIndian/Dex2c/master/termux_install.sh && chmod -R +x termux_install.sh && ./termux_install.sh
+pkg install wget -y && wget -O termux_install.sh https://raw.githubusercontent.com/bagayboss509/Dex2c/master/termux_install.sh && chmod -R +x termux_install.sh && ./termux_install.sh
 ```
 > NOTE: Some users have reported about installation errors with latest `clang` on termux. If you happen to face the same issue, then uncomment the lines stated in `termux_install.sh` and then proceed with the installation.
 
@@ -251,8 +251,8 @@ Distributed under the Apache License. See `LICENSE.txt` for more information.
 
 ### People
 
-* Rahat - [Telegram](https://t.me/botxrahat)
-* GoldenBoot - [Telegram](https://t.me/goldenboot)
+<!-- * Rahat - [Telegram](https://t.me/)-->
+* Ratul Hasan - [Telegram](https://t.me/codehasan)
 
 <p align="right"><a href="#readme-top">Go to top</a></p>
 
