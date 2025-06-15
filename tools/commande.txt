@@ -1,1 +1,0 @@
-python3 dcc.py -a pathinput.apk -o pathoutput.apk
