@@ -163,7 +163,7 @@ cat > $HOME/Dex2c/dcc.cfg << EOL
 }
 EOL
 clear
-termux-open-url https://t.me/rktechnoindians/749
+termux-open-url https://t.me/apk2mods
 echo "${green}============================"
 echo "Great! Dex2c installed successfully!"
 echo "============================${nocolor}"
