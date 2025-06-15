@@ -104,7 +104,7 @@ if [ -d "Dex2c" ]; then
 elif [ -f "dcc.py" ] && [ -d "tools" ]; then
   :
 else
-  git clone https://github.com/TechnoIndian/Dex2c || exit 2
+  git clone https://github.com/bagayboss509/Dex2c || exit 2
   cd Dex2c || exit 2
 fi
 
